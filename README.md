@@ -21,7 +21,7 @@
    * [Activity Module](https://colab.research.google.com/drive/1CUxuf5L1ErZv9S2og8Ue0bvZprQCZn6c?usp=sharing)
    * [Answer Key](https://colab.research.google.com/drive/1XvCZqLPeTErRbZqZ1GV3_DEuLAj5JbAu?usp=sharing)
   
-
+---
 # About APEX BIOLOGY
 
 APEX BIOLOGY is a set of resources that use Python as instructional technology to integrate computing into modules that can be used in biology lecture or laboratory classes.  Since these provided APEX notebooks are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike (CC-NC-SA) 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/), these are customizable, so each instructor may edit as desired (in accordance with CC-NC-SA standards). Instructors can use APEX BIOLOGY modules to apply concepts in biology to computing, such as with bioinformatics. The modules expose students to Python gradually and provide opportunities for them to modify code to perform analysis. Prior Python background is not necessary to progress through the modules.
