@@ -1,5 +1,5 @@
 
-<img src="/imgs/APEX_logo.png" width="550">
+<a href="https://sjsu.edu/apex/"><img src="/imgs/APEX_logo.png" width="550"></a>
 
 # APEX BIOLOGY MODULES <a name="readme"></a>
 
