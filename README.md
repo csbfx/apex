@@ -3,7 +3,7 @@
 
 # APEX BIOLOGY MODULES <a name="readme"></a>
 
-## Exploring Bioinformatics with Python Programming: 
+## Exploring Bioinformatics with Python Programming 
 1. **A Case Study on Sickle Cell Anemia**
    * [Activity Module](https://colab.research.google.com/drive/1SWOs77vCVtgjdLvfP9XGzGfTyuuU07dz?usp=sharing)
    * [Optional Preparatory Module: Gene Sequence Acquisition](https://colab.research.google.com/drive/1uUQS4MNN5zIhHMq2Wb7gnLcZRMLjC1rE?usp=sharing)
