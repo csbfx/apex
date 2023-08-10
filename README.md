@@ -1,4 +1,5 @@
-![APEX](/imgs/APEX_logo.png)
+
+<img src="/imgs/APEX_logo.png" width="550">
 
 # APEX BIOLOGY MODULES
 
