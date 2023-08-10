@@ -18,7 +18,7 @@
    * [Activity Module](https://colab.research.google.com/drive/1tHhxrOKlodUHpAjiAHGwV9tXuHZyzHUx?usp=sharing)
    * [Answer Key](https://colab.research.google.com/drive/1B4rQOAx37IfaaGJAX8rG3FhjRNVf2RNS?usp=sharing)
 4. **Phenology: Oak Trees in California**
-   * [Activity](https://colab.research.google.com/drive/1CUxuf5L1ErZv9S2og8Ue0bvZprQCZn6c?usp=sharing)
+   * [Activity Module](https://colab.research.google.com/drive/1CUxuf5L1ErZv9S2og8Ue0bvZprQCZn6c?usp=sharing)
    * [Answer Key](https://colab.research.google.com/drive/1MIXUOopMLhQkWBRrdFcmbPlAs3o_E0Hf?usp=sharing)
   
 
