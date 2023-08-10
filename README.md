@@ -1,7 +1,7 @@
-<a name="readme"></a>
+
 <img src="/imgs/APEX_logo.png" width="550">
 
-# APEX BIOLOGY MODULES
+# APEX BIOLOGY MODULES <a name="readme"></a>
 
 ## Exploring Bioinformatics with Python Programming: 
 1. **A Case Study on Sickle Cell Anemia**
