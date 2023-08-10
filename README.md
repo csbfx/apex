@@ -5,7 +5,7 @@
 
 ## Exploring Bioinformatics with Python Programming: 
 1. **A Case Study on Sickle Cell Anemia**
-   * <a href="https://colab.research.google.com/drive/1SWOs77vCVtgjdLvfP9XGzGfTyuuU07dz?usp=sharing" target="_new">Activity Module</a>
+   * [Activity Module](https://colab.research.google.com/drive/1SWOs77vCVtgjdLvfP9XGzGfTyuuU07dz?usp=sharing)
    * [Optional Preparatory Module: Gene Sequence Acquisition](https://colab.research.google.com/drive/1uUQS4MNN5zIhHMq2Wb7gnLcZRMLjC1rE?usp=sharing)
    * [Answer Key](https://colab.research.google.com/drive/1nM6nva8SbEM_0IpWxE-_1E_ytiiFiF2g?usp=sharing)
 2. **A Case Study on BRCA1’s Role in Breast Cancer**
