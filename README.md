@@ -20,7 +20,9 @@
 4. **Phenology: Oak Trees in California**
    * [Activity Module](https://colab.research.google.com/drive/1CUxuf5L1ErZv9S2og8Ue0bvZprQCZn6c?usp=sharing)
    * [Answer Key](https://colab.research.google.com/drive/1XvCZqLPeTErRbZqZ1GV3_DEuLAj5JbAu?usp=sharing)
-  
+5. **Finding Sequence Motifs**
+   * [Activity Module with answer key] (https://colab.research.google.com/drive/1gHKtjJW29N31rvyZGhdSJX5TMFUvp8QA?usp=sharing)
+   
 ---
 # About APEX BIOLOGY
 
