@@ -5,7 +5,7 @@
 
 ## Bite-sized Modules
 1. [Introduction to Variables](https://colab.research.google.com/drive/172WI1UPrlliRmDe_6xUlkyj8X4HngaD4?usp=sharing)
-2. [Strings](https://colab.research.google.com/drive/1wM9lI_lzD7xYtDFJH-WasgYy9atHEs_S?usp=sharing))
+2. [Strings](https://colab.research.google.com/drive/1wM9lI_lzD7xYtDFJH-WasgYy9atHEs_S?usp=sharing)
 3. [String Functions](https://colab.research.google.com/drive/1byQrmZBvWQS2i9SS9VzSGE0dEIU8e3QT?usp=sharing)
 4. [Python Operators and Conditional Statements](https://colab.research.google.com/drive/1zT_KqTNcos4RgOSdWdluetccFCq-T6hX?usp=sharing)
 5. [Lists and Tuples](https://colab.research.google.com/drive/1GXF20umcwI9jmUaWkMSiF473SgDBgh6h?usp=sharing)
